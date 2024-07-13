@@ -1,6 +1,6 @@
 <?php
 
-namespace Ugmfw\Ldap;
+namespace Ugmfwlib\Ldap;
 
 class Hai
 {

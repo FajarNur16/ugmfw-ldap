@@ -1,5 +1,5 @@
 {
-    "name": "ugmfw/ldap",
+    "name": "ugmfwlib/ldap",
     "description": "UGM LDAP",
     "type": "library",
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ugmfw\\Ldap\\": "src/"
+            "Ugmfwlib\\Ldap\\": "src/"
         }
     },
     "authors": [
