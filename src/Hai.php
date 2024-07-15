@@ -6,6 +6,6 @@ class Hai
 {
     public function hello()
     {
-        return "Hello, World!";
+        return "Hello, World! Hai";
     }
 }
